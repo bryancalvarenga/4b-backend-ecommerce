@@ -1,0 +1,2 @@
+INSERT INTO categoria (nome, descricao) VALUES ('Informática', 'Produtos de Informática'), ('Livros', 'Livros Técnicos');
+INSERT INTO produto (nome, descricao, estoque, preco, categoria_id) VALUES ('Código Limpo', 'Livro do Robert C.', 20, 87.20, 2);
